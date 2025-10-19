@@ -55,6 +55,7 @@ ISO-10668-Brand-Valuation/
 │   └── Meeting_Minutes_Valuation_Team.md
 │
 └── README.md
+
 ---
 
 ## ⚙️ How to Use
