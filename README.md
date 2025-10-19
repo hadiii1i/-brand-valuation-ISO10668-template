@@ -25,6 +25,9 @@ The purpose of this project is to showcase how a full ISO 10668 system can be st
 | `5_Records/` | Sample records and example brand valuation reports. |
 
 
+## 📁 Project Folder Structure
+
+```
 ISO-10668-Brand-Valuation/
 │
 ├── 1_Policies/
@@ -55,7 +58,7 @@ ISO-10668-Brand-Valuation/
 │   └── Meeting_Minutes_Valuation_Team.md
 │
 └── README.md
-
+```
 
 ---
 
