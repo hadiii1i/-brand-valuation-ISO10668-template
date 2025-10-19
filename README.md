@@ -24,6 +24,37 @@ The purpose of this project is to showcase how a full ISO 10668 system can be st
 | `4_Checklists/` | Quality and compliance verification checklists for ISO 10668. |
 | `5_Records/` | Sample records and example brand valuation reports. |
 
+
+ISO-10668-Brand-Valuation/
+│
+├── 1_Policies/
+│   ├── Brand_Valuation_Policy.md
+│   └── Brand_Management_Policy.md
+│
+├── 2_Procedures/
+│   ├── Procedure_Brand_Data_Collection.md
+│   ├── Procedure_Brand_Valuation_Methods.md
+│   ├── Procedure_Internal_Validation.md
+│   └── Procedure_External_Audit.md
+│
+├── 3_Forms/
+│   ├── FRM-10668-01_Brand_Asset_List.md
+│   ├── FRM-10668-02_Stakeholder_Interview_Form.md
+│   ├── FRM-10668-03_Financial_Data_Input.md
+│   ├── FRM-10668-04_Market_Assessment_Form.md
+│   ├── FRM-10668-05_Risk_Assessment_Form.md
+│   └── FRM-10668-06_Valuation_Report_Template.md
+│
+├── 4_Checklists/
+│   ├── CHK-10668-01_Implementation_Checklist.md
+│   ├── CHK-10668-02_Data_Accuracy_Audit.md
+│   └── CHK-10668-03_Compliance_Verification.md
+│
+├── 5_Records/
+│   ├── Example_Brand_Valuation_Report.md
+│   └── Meeting_Minutes_Valuation_Team.md
+│
+└── README.md
 ---
 
 ## ⚙️ How to Use
