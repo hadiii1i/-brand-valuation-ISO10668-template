@@ -160,7 +160,7 @@ Quality Assurance & ISO Implementation Specialist
 
 ## 🧠 نویسنده
 **هادی**  
-کارشناس تضمین کیفیت و پیاده‌سازی استانداردهای مدیریتی  
+ تضمین کیفیت و پیاده‌سازی استانداردهای مدیریتی  
 📍 حوزه‌های تمرکز: ISO 9001، ISO 10668، ISO 45001، ISO 17025  
 🔗 [پروفایل گیت‌هاب](https://github.com/YourGitHubUsername)
 
